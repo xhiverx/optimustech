@@ -1,5 +1,7 @@
 @import url('style/header.css');
 @import url('style/cabecalho.css');
+@import url('style/metricas.css');
+
 :root {
         --fonte-principal:"Inter";
         --cor-de-fundo:#FFFFFF;

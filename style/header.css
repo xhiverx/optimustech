@@ -41,6 +41,7 @@
 }
 .container__texto-entrar {
     color: var(--cor-do-botao-entrar);
+    background-color: var(--branco);
 }
 .container__texto-cadastrar {
     background-color: var(--cor-do-botao-cadastrar);
