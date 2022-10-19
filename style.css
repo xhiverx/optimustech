@@ -1,6 +1,7 @@
 @import url('style/header.css');
 @import url('style/cabecalho.css');
 @import url('style/metricas.css');
+@import url('style/vagas.css');
 
 :root {
         --fonte-principal:"Inter";
@@ -18,4 +19,9 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
+}
+
+span {
+    color: var(--vermelho);
+    font-weight: 600;
 }

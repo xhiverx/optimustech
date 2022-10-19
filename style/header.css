@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     margin-right: 10em;
-    margin-left: 1em;
+    margin-left: 2em;
 }
 
 .container-2 {
@@ -15,7 +15,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 2em;
+    margin: 0 3em;
 }
 
 .container__titulo {
