@@ -3,7 +3,7 @@
 @import url('style/cabecalho.css');
 @import url('style/metricas.css');
 @import url('style/vagas.css');
-
+@import url('style/depoimentos.css');
 :root {
         --fonte-principal:"Inter";
         --cor-de-fundo:#FFFFFF;
@@ -13,6 +13,7 @@
         --vermelho:#8E2424;
         --preto-titulo:#101828;
         --cor-do-texto:#667085;
+        --fundo-rosa:rgba(196, 25, 25, 0.03);
 }
 
 body {
